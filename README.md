@@ -1,4 +1,4 @@
-# Classifying-Spatial-Trajectories (Python Implementation)
+# Classifying Spatial Trajectories (Python Implementation)
 This is a repository for the codes and other supplements for the paper entitled "Classifying Spatial Trajectories"
 
 ## Authors
